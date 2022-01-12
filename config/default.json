@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://emvisuel:1234@node.6ngoi.mongodb.net/Mern?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://emvisuel:1234@node.6ngoi.mongodb.net/Mern?retryWrites=true&w=majority",
+  "jwtSecret": "mysecret"
 }
